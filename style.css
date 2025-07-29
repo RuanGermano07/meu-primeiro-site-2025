@@ -2,8 +2,9 @@ body {
   background-color:rgb(188, 219, 218);
   color:black;
   font-family:Verdana,Gevana,Thomas, sans-serif;
-  
+  margin-bottom: 100px ;
 }
+
 header {
   border-bottom: solid 2px rgb(42, 35, 143);
   padding: 20px;
@@ -16,4 +17,16 @@ section {
   padding-bottom: 80px;
   padding-top: 80px;
   display: flex;
+  justify-content: center;
+}
+.chamada-texto {
+  margin-right: 5%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p{
+  font-size: 20px;
 }
